@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jenniii-om
 - 👀 I’m interested in data and machine learning
-- 🌱 I’m currently learning exploratory data analysis and python at Datacamp!
+- 🌱 I’m currently learning Tableau, Snowflake, and python at Datacamp!
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: Let me get back to you 🤖 
 
